@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="app/src/main/res/drawable/ic_launcher_foreground.xml" width="100" alt="QuickWa Logo"/>
+<img src="https://img.shields.io/badge/-%F0%9F%9F%A2%20QuickWa-25D366?style=for-the-badge&logoColor=white" alt="QuickWa" height="50"/>
 
 # QuickWa — Quick WhatsApp Message
 
